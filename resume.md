@@ -106,6 +106,6 @@
 
 ## ポートフォリオ
 
-- [Portfolio Site](https://portfolio.techcraft.one/)
-- [GitHub](https://github.com/ga-techcraft?tab=repositories)
-- [Qiita](https://qiita.com/TechCraft)
+- [Portfolio Site](https://portfolio.techcraft.one/) `https://portfolio.techcraft.one/`
+- [GitHub](https://github.com/ga-techcraft?tab=repositories) `https://github.com/ga-techcraft?tab=repositories`
+- [Qiita](https://qiita.com/TechCraft) `https://qiita.com/TechCraft`
